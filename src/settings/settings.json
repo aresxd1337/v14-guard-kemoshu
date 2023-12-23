@@ -1,0 +1,12 @@
+{
+    "guild": {
+        "id": "1040382828673765506",
+        "log": "1176093205180198945"
+    },
+    "bot": {
+        "owner": "921504197675991131",
+        "token": "MTE4NzM3MDUxNjU5NjY2MjM4Mg.Gu-3zh.wuK-Fy3RwtRqX31FMsuLsgIs2YynOMZ78rMWWE",
+        "tokens": ["",""],
+        "mongo": "mongodb+srv://areslesnar36:areslesnar36@cluster0.6cviagy.mongodb.net/?retryWrites=true&w=majority"
+    }
+}

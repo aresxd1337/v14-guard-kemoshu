@@ -1,0 +1,20 @@
+{
+  "name": "v13-slash-guard-kemo",
+  "version": "1.0.0",
+  "description": "slash-respo",
+  "main": "kemo.js",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "axios": "^0.26.1",
+    "discord-api-types": "^0.37.66",
+    "discord.js": "^13.6.0",
+    "mongoose": "^5.13.14",
+    "ora": "^5.4.1"
+  },
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "kemo",
+  "license": "ISC"
+}
