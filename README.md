@@ -1,5 +1,6 @@
 # 🟢  V14 GUARD KEMO
 `-` /koruma /backup ile Sunucuyu Koruyabilrisiniz Dağıtıcı Dahildir İçinde
+
 `-` Botun üstünde birisinde yetki varsa ve sunucu patlarsa siklemem
 
 `-` Bot alti kimse birşey yapamaz sunucu patlama anında /koruma koruma aç diyip tüm yetkileri kapatabilirsiniz
