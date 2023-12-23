@@ -9,7 +9,8 @@ V12'den v14 çevrilip atılmıştır 10 dakika sürdü
 - Sunucuda bot üstü yetki sahip olup sunucu gümlerse siklemem
 - Patlama esnasında /koruma guard aç bitti
 
-
+- boş altyapı rante'e aitir
+- 
 # Bot Resimleri
 
 ![image](https://cdn.discordapp.com/attachments/1176093205180198945/1188243697658232922/image.png?ex=6599d12e&is=65875c2e&hm=dbac9180801c81965ca8f5611a983d3dc62f128869124df2dd8eb0857b5c49c7&)
