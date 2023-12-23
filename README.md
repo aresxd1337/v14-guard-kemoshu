@@ -8,9 +8,9 @@
 <br> </br>
 
 # 🟢  TEMİZ KURULUM
-`-` "Token": "TOKEN",
-`-` ["Token","Token"],
-`-` Config dosyasının içine girdiğinizde üst satırdakini gördügünüz token yerlieri config.json da var zaten tokenleri giriniz bitti
+- `"Token": "TOKEN",`
+- `["Token","Token"],`
+- Config dosyasının içine girdiğinizde üst satırdakini gördügünüz token yerlieri config.json da var zaten tokenleri giriniz bitti
 <br> </br>
 # GÖRSELLER
 <img  src="https://cdn.discordapp.com/attachments/1176093205180198945/1188243697658232922/image.png?ex=6599d12e&is=65875c2e&hm=dbac9180801c81965ca8f5611a983d3dc62f128869124df2dd8eb0857b5c49c7&">
