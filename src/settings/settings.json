@@ -7,6 +7,6 @@
         "owner": "921504197675991131",
         "token": "MTE4NzM3MDUxNjU5NjY2MjM4Mg.Gu-3zh.wuK-Fy3RwtRqX31FMsuLsgIs2YynOMZ78rMWWE",
         "tokens": ["",""],
-        "mongo": "mongodb+srv://areslesnar36:areslesnar36@cluster0.6cviagy.mongodb.net/?retryWrites=true&w=majority"
+        "mongo": "mongodb+srv://ares36:@cluster0.6cviagy.mongodb.net/?retryWrites=true&w=majority"
     }
 }
